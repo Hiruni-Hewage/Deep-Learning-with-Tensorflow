@@ -26,17 +26,6 @@ The dataset used in this project is sourced from Kaggle, consisting of labeled c
 - OpenCV
 - Scikit-learn
 
-## Installation
-
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/yourusername/covid-xray-detection.git
-    ```
-2. **Install the required libraries**:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. **Prepare the dataset**: Download and extract the dataset from Kaggle.
